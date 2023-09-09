@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'ru.ng.otus.pro.homeworks.'
+group 'ru.ng.otus.pro.homeworks'
 version '1.0'
 
 repositories {
