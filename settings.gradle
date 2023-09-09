@@ -1,2 +1,3 @@
 rootProject.name = 'otus_pro_homeworks'
+include 'hw02-collections_generics'
 
